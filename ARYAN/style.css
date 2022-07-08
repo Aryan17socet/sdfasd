@@ -1,0 +1,16 @@
+.basicdetails{
+    border: 2px solid black;
+    
+    background-color:skyblue;
+    width: 400px;
+}
+
+.registrationForm{
+    margin: auto;
+    width: max-content;
+}
+.basicdetails{
+    border: 2px solid black;
+    background-color: skyblue;
+    width: 400px;
+}
